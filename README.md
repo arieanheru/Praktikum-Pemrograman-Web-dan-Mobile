@@ -1,2 +1,16 @@
 # Praktikum-Pemrograman-Web-dan-Mobile
 Berisi file terkait praktikum Pemweb.
+
+## Isi Modul
+
+1. **Modul 1**
+   - Membahas mengenai pengenalan PHP secara mendasar.
+   
+2. **Modul 2**
+3. **Modul 3**
+4. **Modul 4**
+5. **Modul 5**
+
+## Dibuat oleh:
+- Christian I.
+- Pemweb (E)
