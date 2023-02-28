@@ -13,4 +13,4 @@ Berisi file terkait praktikum Pemweb.
 
 ## Dibuat oleh:
 - Christian I.
-- Pemweb (E)
+- Pemweb - TI UPR
