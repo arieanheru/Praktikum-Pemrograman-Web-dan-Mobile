@@ -1,4 +1,4 @@
-# Praktikum-Pemrograman-Web-dan-Mobile
+# Praktikum Pemrograman Web dan Mobile
 Berisi file terkait praktikum Pemweb.
 
 ## Isi Modul
