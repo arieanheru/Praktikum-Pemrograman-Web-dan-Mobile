@@ -1,1 +1,2 @@
 Berisi php dan database.
+(((inputing or changing certain data are not 100% working)))
