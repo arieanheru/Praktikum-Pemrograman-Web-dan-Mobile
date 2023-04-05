@@ -10,7 +10,7 @@ Berisi file terkait praktikum Pemweb.
    - Membahas mengenai PHP sebagai form handling: membuat laman login.
    
 3. **Modul 3**
-   - 
+   - Mencoba CRUD dengan database MySQL dan PHP
 4. **Modul 4**
    - Penggunaan AJAX
 5. **Modul 5**
