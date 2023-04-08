@@ -1,3 +1,3 @@
 # work_mod6_a
 
-A new Flutter project.
+The main work of this *praktikum*.
